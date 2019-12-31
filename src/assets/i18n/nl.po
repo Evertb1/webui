@@ -5,48 +5,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr " Zie de meldingen voor meer details."
 
 msgid " Download Updates"
-msgstr ""
+msgstr " Download de Updates"
 
 msgid " First vdev has "
-msgstr ""
+msgstr " De eerste vdev heeft "
 
 msgid " First vdev is a "
-msgstr ""
+msgstr " De eerste vdev is een "
 
 msgid " Plugin"
-msgstr ""
+msgstr " Plug-in"
 
 msgid " Service"
-msgstr ""
+msgstr " Service"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
 "port number of the UPS <i>Master</i> system. The default port is "
 "<i>3493</i>."
 msgstr ""
+" Als de <b>UPS Mode</b> is ingesteld als <i>slave</i>. Enter dan het open netwerk "
+"poort nummer van het UPS <i>Master</i> systeem. De standaard (default) poort is "
+"<i>3493</i>."
 
 msgid ""
 " a passphrase invalidates an existing pool  recovery key file. To save a "
 "backup of the existing encryption key  without making any changes, click "
 "<b>DOWNLOAD ENCRYPTION KEY</b>."
 msgstr ""
+" een passphrase maakt een bestaand pool recovery key bestand ongeldig. Om een "
+"backup te bewaren van de onveranderde bestaande encryptie key, klik op "
+"<b>DOWNLOAD ENCRYPTION KEY</b>."
 
 msgid ""
 " addresses. When this has been chosen, additional addresses cannot be "
 "selected."
 msgstr ""
+" adressen. Als dit is gekozen kunnen geen extra adressen worden "
+"geselecteerd."
 
 msgid " and "
-msgstr ""
+msgstr " en "
 
 msgid " and all snapshots of it?"
-msgstr ""
+msgstr " en alle snapshots daarvan?"
 
 msgid " but datastore "
-msgstr ""
+msgstr " maar datastore"
 
 msgid " disks"
 msgstr ""
