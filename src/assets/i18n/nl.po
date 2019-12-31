@@ -37,7 +37,7 @@ msgid ""
 "<b>DOWNLOAD ENCRYPTION KEY</b>."
 msgstr ""
 " een passphrase maakt een bestaand pool recovery key bestand ongeldig. Om een "
-"backup te bewaren van de onveranderde bestaande encryptie key, klik op "
+"backup te bewaren van de bestaande onveranderde encryptie key, klik op "
 "<b>DOWNLOAD ENCRYPTION KEY</b>."
 
 msgid ""
@@ -54,22 +54,22 @@ msgid " and all snapshots of it?"
 msgstr " en alle snapshots daarvan?"
 
 msgid " but datastore "
-msgstr " maar datastore"
+msgstr " maar datastore "
 
 msgid " disks"
 msgstr " disks"
 
 msgid " disks, new vdev has "
-msgstr " disks, de nieuwe vdev heeft"
+msgstr " disks, de nieuwe vdev heeft "
 
 msgid " has been unlocked."
-msgstr " is ontgrendeld"
+msgstr " is ontgrendeld."
 
 msgid " is "
-msgstr " is"
+msgstr " is "
 
 msgid " is required."
-msgstr " is verplicht"
+msgstr " is verplicht."
 
 msgid ""
 " is the minimum recommended record size. Choosing a smaller size can reduce "
@@ -110,7 +110,7 @@ msgid ""
 "passphrase for it."
 msgstr ""
 "' is encrypted! Als de passphrase voor deze encrypted pool verloren is, "
-"zal de data PERMANENT EN ONHERSTELBAAR VERLOREN GAAN! Voor het exporteren/loskoppelen "
+"zal de data PERMANENT EN ONHERSTELBAAR VERLOREN GAAN! Vóór het exporteren/loskoppelen "
 "van encrypted pools, download de encyptie key en eventuele passphrase en sla deze "
 "veilig op."
 
@@ -169,10 +169,10 @@ msgid "</i> now?"
 msgstr "</i> nu?"
 
 msgid "</i> stopped."
-msgstr ""
+msgstr "</i> gestopt."
 
 msgid "</i> updated."
-msgstr "</i> gestopt."
+msgstr "</i> bijgewerkt."
 
 msgid "</i>. Data on the pool will not be accessible until the pool is unlocked."
 msgstr "</i>. De data in de pool is niet toegankelijk totdat de pool is ontgrendeld."
